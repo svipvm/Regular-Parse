@@ -1,9 +1,0 @@
-{ 
-    "nodelist" : [{
-        "compile" : "compile string1",
-        "names" : ["name1_1", "name1_2"]
-    }, {
-        "compile" : "compile string2",
-        "names" : ["name2_1"]
-    }]
-}

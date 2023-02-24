@@ -1,0 +1,11 @@
+{ 
+    "nodelist" : [{
+        "task": "epoch",
+        "compile_str" : "nums: (\\d+), count: (\\d+)",
+        "names" : ["nums", "counts"]
+    }, {
+        "task": "batch",
+        "compile_str" : "year: (\\d+), value: (\\d+)",
+        "names" : ["years", "values"]
+    }]
+}
